@@ -19,6 +19,8 @@ This folder can contain all meeting-minutes documents throughout the project.
 ### Action
 * TODO
     * Individually work on developing some python code regarding the dataset and compare results.
+    * Calvin will try to implement parallel processing while using a senson in the frames.
+    * Antrea will try to divide the videos, counting car individually in each part and then adding        them together.
     
 
 ### Additional Notes
