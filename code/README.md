@@ -5,4 +5,6 @@ It can be adjusted to take more than one videos.
 
 The "knn_clistering.py" script, goes through those frames and clusters them based on colour and activity.
 
+Change the directory paths when running the code.
+
 
